@@ -22,12 +22,12 @@ nav ul li {
   display: inline-block;
   list-style:none;
   width:160px;
-  text-align:center;
+  text-align: center;
   font-family: Helvetica, sans-serif;
   border: 1px dashed rgba(255,255,255,0);
   color: rgb(42, 154, 104);
   padding: 10px 0 10px 0;
-  marginL -1px -5px -1px -1px;
+  margin: -1px -5px -1px -1px;
   cursor: pointer;
   transiton: all .2s;
   -webkit-transition: all .2s;
